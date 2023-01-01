@@ -1,4 +1,3 @@
-#include "common.h"
 #include <vga.h>
 
 κενός εκκίνηση() {
